@@ -1,22 +1,7 @@
 # Parkinson-s-Disease
 A comparative analysis for predicting the Parkinson's disease prediction.
 A precise and timely prediction of the disease’s course is required since Parkinson’s disease (PD) represents a serious worldwide health concern. In order to achieve this goal, this work presents a thorough comparative study of sophisticated machine learning (ML) models and developed a brand-new embedded algorithm called GraNeu. Finding the best model for accurately predicting PD progression is the main goal in order to facilitate early intervention and enhance patient care. The study makes use of a carefully selected dataset obtained from Kaggle, which includes a wide range of biological voice measurements taken from PD patients and healthy controls. The dataset’s integrity is maintained by thorough preprocessing and feature selection, which improves the subsequent model training procedure. The development of GraNeu, a hybrid of Gradient Boosting and Neural Networks that builds on the advantages of both approaches, is a creative strategy that highlights the originality of the study. Employing specific hyperparameters, various ML models, such as Neural Networks, Gradient Boosting, and Random Forest, are deployed and optimized. By exhibiting the possibility for improved PD progression prediction, GraNeu’s embedded architecture highlights this research’s originality in its ground-breaking discovery. In order to provide a deeper understanding of the behaviors of the models, the study also uses intelligent data visualization tools, such as scatter plots and bar charts. Through an in-depth analysis of numerous ML models, this study pioneers a comprehensive approach to PD progression prediction, with GraNeu emerging as the innovative standout.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CODE:
 !pip install opendatasets
 import opendatasets as od
 import pandas
